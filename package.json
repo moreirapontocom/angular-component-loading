@@ -1,0 +1,19 @@
+{
+  "name": "@criarti/loading",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^11.0.9",
+    "@angular/core": "^11.0.9"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/criarti-loading.umd.js",
+  "module": "fesm2015/criarti-loading.js",
+  "es2015": "fesm2015/criarti-loading.js",
+  "esm2015": "esm2015/criarti-loading.js",
+  "fesm2015": "fesm2015/criarti-loading.js",
+  "typings": "criarti-loading.d.ts",
+  "metadata": "criarti-loading.metadata.json",
+  "sideEffects": false
+}

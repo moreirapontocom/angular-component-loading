@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of loading
+ */
+export * from './lib/loading.service';
+export * from './lib/loading.component';
+export * from './lib/loading.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL2NyaWFydGkvbG9hZGluZy9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsdUJBQXVCLENBQUM7QUFDdEMsY0FBYyx5QkFBeUIsQ0FBQztBQUN4QyxjQUFjLHNCQUFzQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBsb2FkaW5nXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbG9hZGluZy5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2xvYWRpbmcuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2xvYWRpbmcubW9kdWxlJztcbiJdfQ==
